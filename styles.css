@@ -79,7 +79,7 @@ ul li:nth-child(7) {
   box-shadow: 0 0 50px #8140f1;
 }
 ul li:nth-child(8) {
-  animation-delay: -1.4s;
+  animation-delay: -0.1s;
   background: #ffff00;
   box-shadow: 0 0 50px #ffff00;
 }
